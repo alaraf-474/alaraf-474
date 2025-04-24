@@ -9,11 +9,11 @@ A Spring Boot backend that blends psychology, logic, and code to recommend daily
 
 ---
 
-### 🌱 What I'm Learning
+###  What I'm upto
 - Java Spring Boot
 - REST APIs & Backend Architecture
-- Docker (DevOps exploration coming up)
-- Data Structures in Java
+- Docker (exploration level)
+- DSA-C++
 
 
 ---
