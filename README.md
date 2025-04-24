@@ -14,7 +14,7 @@ A Spring Boot backend that blends psychology, logic, and code to recommend daily
 - REST APIs & Backend Architecture
 - Docker (DevOps exploration coming up)
 - Data Structures in Java
-- Philosophy of Computation 🧬
+
 
 ---
 
