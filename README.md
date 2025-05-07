@@ -1,60 +1,133 @@
+Hi, I'm Al Araf!  
+**Java Backend Engineer | Spring Ecosystem Architect | AI x ERP Systems Thinker**
+
+I build production-grade Java/Spring backends and layer them with intelligent behavioral systems. From ERP microservices to persona-based engines, I engineer scalable, AI-augmented software for the modern stack.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alaraf-474)  
+[![GitHub](https://img.shields.io/badge/GitHub-alaraf--474-181717?style=flat-square&logo=github)](https://github.com/alaraf-474)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding-orange?style=flat-square&logo=leetcode)](https://leetcode.com/your-leetcode-handle)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-Competitive-blueviolet?style=flat-square&logo=codeforces)](https://codeforces.com/profile/your-profile)
 
 ---
 
-<h1 align="center">Hi, I'm Al Araf</h1>
-<h3 align="center">A backend guy exploring logic, behavior, and scalable systems</h3>
+## ⚙️ Tech Arsenal
+
+| Domain         | Tools & Frameworks |
+|----------------|--------------------|
+| **Backend**    | Java 17+, Spring Boot, Spring Security, Spring Data JPA |
+| **AI/ML**      | Python, Scikit-Learn, Pandas (via REST bridge) |
+| **Database**   | PostgreSQL, MongoDB, Redis |
+| **DevOps**     | Docker, Railway, GitHub Actions |
+| **Frontend**   | React, Tailwind CSS (for full-stack integrations) |
+| **Emerging**   | Web3J, Hyperledger, MQTT, Quartz (Obsidian publishing) |
 
 ---
 
-### What I’m Building
-Currently architecting **PersonaX AI** — a backend intelligence system that blends psychology, behavioral data, and AI to generate user personas and adaptive monetization strategies.  
-> Think clean APIs + embedded logic that understands human behavior.
+## 🚀 Core Projects
+
+### PIE: Personality Insight Engine  
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/alaraf-474/pie-personality-engine.git)  
+A Spring Boot-based intelligence API that delivers lifestyle personas based on user psychology, income, and digital behavior.
+
+- Clean architecture + secure RESTful API
+- AI persona logic (Python bridge)
+- React + Tailwind frontend in progress
+- Graph DB integration and scoring engine planned
 
 ---
 
-### What I’m Working With
-- **Backend Development** using Java + Spring Boot  
-- **RESTful API Design** and microservice communication  
-- **Data-Driven Systems** using PostgreSQL + Redis  
-- **Containerization & DevOps** with Docker  
-- Practicing **DSA** with C++ and competitive problem-solving  
+### Spring Security Deep-Dive  
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/alaraf-474/spring-security-demo)  
+A zero-to-one exploration of authentication systems.
+
+- JWT, RBAC, CORS, Keycloak OAuth2 flows
+- API token protection + audit logging
+- Swagger docs and modular codebase
 
 ---
 
-### 💡 Tech I'm Exploring
-- LLMs and vector databases (Qdrant, Pinecone)  
-- Python microservices for AI workflows  
-- Edge-based data privacy and federated learning  
+### ERP Microservices Lab *(WIP)*  
+A modular ERP backend exploring AI augmentation in core business logic.
+
+- Spring Boot microservices for HR, Inventory, Finance
+- Fraud detection via Python ML
+- Document verification via Ethereum smart contracts
+
+```java
+@PostMapping("/score/personality")
+public PersonaResult generate(@RequestBody PersonaRequest req) {
+    return aiService.inferPersona(req); // Python bridge
+}
+
 
 ---
 
-### Contact
-- **Email:** [alaraf62826@gmail.com](mailto:alaraf62826@gmail.com)  
-- **LinkedIn:** [Al Araf](https://www.linkedin.com/in/abdullah-al-araf-rishad-095403306/)  
-- **Discord:** `alaraf#6282` | [Join Server](https://discord.gg/cJ3CmaBy)
+🧠 Systems Thinking in Fiction
+
+Lillith — Narrative Systems Engineering (via Obsidian + Quartz)
+
+I use fiction as a framework to simulate collapse, behavioral drift, and system design failure in a tri-star galaxy.
+
+Redox: A post-civilization world to explore asymmetry, collapse theory, and AI aftermaths.
+
+Behavioral Models: Lillith's archetypes and factions inform logic in engines like PersonaX.
+
+Documentation-First: Obsidian vault versioned with Quartz + GitHub Pages. Fiction treated like technical specs.
+
+
+> I prototype systems through story mechanics before I build them in code.
+
+
+
 
 ---
 
-### ⚙️ Tools & Tech Stack
+PersonaX AI: Behavior-Driven Intelligence Engine
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40"/>
-</p>
+
+Backend AI engine translating behavioral inputs into monetizable personas.
+
+Modular Spring Boot core with AI-driven scoring
+
+Persona logic mapped via psychological attributes
+
+Built for product personalization and lifestyle analytics
+
+Future roadmap: Graph-based reasoning, streaming pipelines, enterprise APIs
+
+
+@PostMapping("/persona/generate")
+public PersonaResponse generatePersona(@RequestBody BehaviorData data) {
+    return personaEngine.analyze(data); // Behavior mapping logic
+}
+
 
 ---
 
-### GitHub Stats
+📚 Currently Grinding
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaraf-474&layout=compact&theme=default" alt="Top Languages" />
-</p>
+DSA with Java — Hackrrank (Optional)
+
+Clean Architecture — aligning backend design to scale and maintainability
+
+PersonaX — extending behavioral logic + real-time analysis
+
+Quartz Publishing — systematizing Lillith documentation pipeline
+
+
 
 ---
 
+✉️ Let’s Collaborate
+
+Email: alaraf.dev@protonmail.com
+
+LinkedIn: linkedin.com/in/alaraf-474
+
+Site/Blog: Coming Soon
+
+
+
+---
+
+> Code is the tool. Systems are the mindset. Behavior is the data.
