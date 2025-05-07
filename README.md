@@ -1,5 +1,5 @@
 Hi, I'm Al Araf!  
-**Java Backend Engineer | Spring Ecosystem Architect | AI x ERP Systems Thinker**
+**Java Backend Engineer | Spring Ecosystem Design | AI x ERP Systems Thinker**
 
 I build production-grade Java/Spring backends and layer them with intelligent behavioral systems. From ERP microservices to persona-based engines, I engineer scalable, AI-augmented software for the modern stack.
 
