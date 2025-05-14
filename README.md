@@ -14,11 +14,11 @@ I build production-grade Java/Spring backends and layer them with intelligent be
 
 ## Projects
 
-### [PersonaX AI](https://github.com/alaraf-474/personaX)
+### [PersonaX AI](https://github.com/alaraf-474/personaX](https://github.com/alaraf-474/personax-backend)
 - **Tech Stack**: Spring Boot, Docker, PostgreSQL
 - Backend system generating user personas based on behavior to drive monetization insights. Essentially, it's like giving an AI the keys to your personality.
 
-### [PIE - Personality Insight Engine](https://github.com/alaraf-474/pie-personality-engine)
+### [PIE - Personality Insight Engine](https://github.com/alaraf-474/pie-personality-engine](https://github.com/alaraf-474/pie-personality-engine)
 - **Tech Stack**: Spring Boot, Java
 - A backend application that tells you how you should dress based on your personality, income, and lifestyle. No more wondering if your outfit says “I’m in control” or “I just woke up.”
 
